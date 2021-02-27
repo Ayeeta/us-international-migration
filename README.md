@@ -5,6 +5,8 @@ In this project we carry out exploratory analysis on the population dataset foun
 
 We get to notice the trend in international migrations, the places mostly migrated to for the past 9 years.
 
+Blog showing a step by step process to this project can be found [here](https://medium.com/@elijate/data-science-with-python-2-international-migration-to-the-usa-179539bb5cd6)
+
 ### Set up
 * Clone or download repo
 * Open up the population_proj.ipynb in anaconda-navigator
